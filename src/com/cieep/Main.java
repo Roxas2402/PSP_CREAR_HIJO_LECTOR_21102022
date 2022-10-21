@@ -1,3 +1,5 @@
+package com.cieep;
+
 import java.io.*;
 import java.util.Scanner;
 
